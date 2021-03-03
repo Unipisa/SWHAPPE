@@ -42,7 +42,7 @@ For more details, please see [the process documentation](https://github.com/Soft
 
 The SWHAP@Pisa project designed and implemented the SWHAP Pisa Enactor (SWHAPPE), an environment to support SWHAP based on the platform you are accessing, that is, [GitHub](https://github.com/).
 
-SWHAPPE provides *template repositories* to be instantiated and then filled for each acquisition. According to the supported naming rules, acquiring the source code XYZ will result in the following repositories:
+SWHAPPE provides a [*template repository*](https://github.com/Unipisa/SWHAP-TEMPLATE) to be instantiated and then filled for each acquisition. According to the supported naming rules, acquiring the source code XYZ will result in the following repositories:
 
 - the *XYZ Workbench*, a working area where one can temporarily *collect* the materials and then proceed to *curate* the code;
 - the *XYZ Depository*, to archive the raw materials;
@@ -50,7 +50,7 @@ SWHAPPE provides *template repositories* to be instantiated and then filled for 
 
 For a detailed description of SWHAPPE, please see section 3 of the [SWHAP guide](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP@Pisa.md).
 
-For a detailed guide on how to use SWHAPPE, please refer to the *walk through an example* in section 4 of the [same guide](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP@Pisa.md).
+For a detailed guide on how to use SWHAPPE, please refer to the *walk through an example* in section 4 of the [same guide](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP@Pisa.md) and to the [scripted acquisition example](https://github.com/Unipisa/SWHAP-EXAMPLE).
 
 ## Current state
 
