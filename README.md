@@ -58,6 +58,8 @@ The list of the currently available acquisitions is in the [Catalogue](./catalog
 
 Notable acquisitions include: [CMM](https://github.com/Unipisa/CMM), [OrbFit](https://github.com/Unipisa/OrbFit), [TAUmus](https://github.com/Unipisa/TAUmus), [Softi](https://github.com/Unipisa/Softi).
 
+The list of people who participated to the SHWAPPE definition can be found in [actors.md](./actors.md), while a log of the process evolution con be found in [journal.md](./journal.md).
+
 
 ## How To Contribute<!--_Here a brief description of how an acquisition can be done_ -->
 
