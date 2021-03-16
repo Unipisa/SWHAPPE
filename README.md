@@ -1,9 +1,8 @@
 
 ---
 <p align="center">
-  <img src="./SWHAP-PISA-LOGO-HEAD.png" alt="SWHAP@PISA"/>
+  <img src="./additional_materials/SWHAP-PISA-LOGO-HEAD.png" alt="SWHAP@PISA"/>
 </p>
-<!-- ![SWHAP@PISA](./DOCS_OLD/IMAGES/SWHAP-PISA-LOGO-HEAD.png) -->
 
 ---
 
@@ -17,10 +16,11 @@ This repository brings together the documentation, the catalogue and other infor
 ---
 
 
-- [The Process](#the-process)
-- [Process support](#process-support)
-- [Current state](#current-state)
-- [How To Contribute](#how-to-contribute)
+- [SWHAP@Pisa](#swhappisa)
+  - [The Process](#the-process)
+  - [Process support](#process-support)
+  - [Current state](#current-state)
+  - [How To Contribute](#how-to-contribute)
 
 
 ---
@@ -64,7 +64,7 @@ Notable acquisitions include: [CMM](https://github.com/Unipisa/CMM), [OrbFit](ht
 [This is a mailing list](https://sympa.inria.fr/sympa/info/swhap) dedicated to the Software Heritage Acquisition Process.
 Feel free to register and exchange informations and best practices.
 
-For a detailed description of SWHAPPE, please see section 3 of the [SWHAP guide](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf); for an overview, see the [presentation](linkAlFile.pdf at [HaPoC 2019]( https://hapoc2019.sciencesconf.org)
+For a detailed description of SWHAPPE, please see section 3 of the [SWHAP guide](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf); for an overview, see the [presentation](https://annex.softwareheritage.org/public/talks/2019/2019-10-28-Hapoc_CarloMontangero.pdf) at [HaPoC 2019](https://hapoc2019.sciencesconf.org)
 
 
 
