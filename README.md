@@ -64,7 +64,7 @@ Notable acquisitions include: [CMM](https://github.com/Unipisa/CMM), [OrbFit](ht
 [This is a mailing list](https://sympa.inria.fr/sympa/info/swhap) dedicated to the Software Heritage Acquisition Process.
 Feel free to register and exchange informations and best practices.
 
-For a detailed description of SWHAPPE, please see section 3 of the [SWHAP guide](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf); for an overview, see the [presentation](https://annex.softwareheritage.org/public/talks/2019/2019-10-28-Hapoc_CarloMontangero.pdf) at [HaPoC 2019](https://hapoc2019.sciencesconf.org)
+For a detailed description of SWHAPPE, please see section 3 of the [SWHAP guide](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf); for an overview, see the [presentation](https://annex.softwareheritage.org/public/talks/2019/2019-10-28-Hapoc_CarloMontangero.pdf) at [HaPoC 2019](https://hapoc2019.sciencesconf.org).
 
 
 
