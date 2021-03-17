@@ -48,7 +48,7 @@ SWHAPPE provides a [*template repository*](https://github.com/Unipisa/SWHAP-TEMP
 - the *XYZ Depository*, to archive the raw materials;
 - the *XYZ*, where the version history of the code is rebuilt by the *curation team*, as it is *archived* in SWH.
 
-For a detailed description of SWHAPPE, please see section 3 of the [SWHAP guide](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP@Pisa.md).
+For a detailed description of SWHAPPE, please see section 3 of the [SWHAP guide](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf); for an overview, see the [presentation](https://annex.softwareheritage.org/public/talks/2019/2019-10-28-Hapoc_CarloMontangero.pdf) at [HaPoC 2019](https://hapoc2019.sciencesconf.org).
 
 For a detailed guide on how to use SWHAPPE, please refer to the *walk through an example* in section 4 of the [same guide](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP@Pisa.md) and to the [scripted acquisition example](https://github.com/Unipisa/SWHAP-EXAMPLE).
 
@@ -66,7 +66,6 @@ The list of people who participated to the SHWAPPE definition can be found in [a
 [This is a mailing list](https://sympa.inria.fr/sympa/info/swhap) dedicated to the Software Heritage Acquisition Process.
 Feel free to register and exchange informations and best practices.
 
-For a detailed description of SWHAPPE, please see section 3 of the [SWHAP guide](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf); for an overview, see the [presentation](https://annex.softwareheritage.org/public/talks/2019/2019-10-28-Hapoc_CarloMontangero.pdf) at [HaPoC 2019](https://hapoc2019.sciencesconf.org).
 
 
 
