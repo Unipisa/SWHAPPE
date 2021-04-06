@@ -46,6 +46,11 @@
   * *Date* Up to 2006
   * *Workbench* [ICARO-Workbench](https://github.com/Unipisa/ICARO-Workbench)
 
+* **MAGMA-Lisp**
+  * MAGMA-Lisp was an extended Lisp interpreter for non-deterministic programming, developed at the Istituto di Scienze dell'Informazione (ISI) of the University of Pisa in the nineteen seventies.
+  * *Date* 1970 circa
+  * *Workbench* [MAGMA-Lisp-Workbench](https://github.com/Unipisa/MAGMA-Lisp-Workbench)
+
 * **Softi** (archived public)
   * A small suite of assembly and FORTRAN programs for the CEP, to smoothen a curve.
   * *Date* 1968
