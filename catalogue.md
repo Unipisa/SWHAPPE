@@ -48,7 +48,7 @@
 
 * **MAGMA-Lisp**
   * MAGMA-Lisp was an extended Lisp interpreter for non-deterministic programming, developed at the Istituto di Scienze dell'Informazione (ISI) of the University of Pisa in the nineteen seventies.
-  * *Date* 1970 circa
+  * *Date* 1972 circa, up to 1981
   * *Workbench* [MAGMA-Lisp-Workbench](https://github.com/Unipisa/MAGMA-Lisp-Workbench)
 
 * **Softi** (archived public)
